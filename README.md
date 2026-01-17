@@ -97,26 +97,20 @@ Online-Job-board/
 Displays the hero section, navigation bar, and platform highlights.
 <img width="707" height="629" alt="Screenshot 2026-01-17 124315" src="https://github.com/user-attachments/assets/5e0a5e1a-c2ec-44d7-8101-70ccdda4411f" />
 
-
 ### 📝 Signup Page
 
 Allows new users to create an account securely.
 <img width="652" height="711" alt="Screenshot 2026-01-17 124341" src="https://github.com/user-attachments/assets/679c26b0-9cee-4e42-b5fc-09e1216da03f" />
-
 
 ### 🔑 Login Page
 
 Registered users can log in to access job listings.
 <img width="737" height="583" alt="Screenshot 2026-01-17 124354" src="https://github.com/user-attachments/assets/d4318c62-4bce-49be-81d9-f5ea47655ec2" />
 
-
 ### 🔍 Browse Jobs Page
 
 Users can search and filter job opportunities.
 <img width="737" height="312" alt="Screenshot 2026-01-17 124409" src="https://github.com/user-attachments/assets/0da3e042-31a0-431d-bd52-2e3458308930" />
-
-
-
 
 ---
 
