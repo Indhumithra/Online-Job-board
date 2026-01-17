@@ -10,13 +10,13 @@ import {
 /* 🔥 FIREBASE CONFIG */
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAB9Zk-5p-LnIIxCcwTv0gkSvNRWuh2vu8",
-  authDomain: "online-job-board-a1842.firebaseapp.com",
-  projectId: "online-job-board-a1842",
-  storageBucket: "online-job-board-a1842.firebasestorage.app",
-  messagingSenderId: "620356158094",
-  appId: "1:620356158094:web:170c9c144f7cbc1d837fdf",
-  measurementId: "G-LCXND3S3HN"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 
@@ -74,3 +74,4 @@ window.login = async function () {
     alert(error.message);
   }
 };
+
