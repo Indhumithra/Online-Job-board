@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Browse Jobs - JobBoard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="logo">💼 JobBoard</div>
+  <div class="nav-links">
+    <a href="jobs.html">Browse Jobs</a>
+    <a href="login.html" class="btn-outline">Login</a>
+    <a href="signup.html" class="btn-primary">Sign Up</a>
+  </div>
+</nav>
+
+<section class="search-box">
+  <input type="text" placeholder="Job title, keywords..." />
+  <input type="text" placeholder="Location" />
+  <select>
+    <option>All Job Types</option>
+    <option>Full Time</option>
+    <option>Part Time</option>
+    <option>Remote</option>
+    <option>Internship</option>
+  </select>
+  <button class="btn-primary">Search</button>
+</section>
+
+<section class="jobs-list" id="jobsList">
+  Loading jobs...
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
